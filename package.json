@@ -1,0 +1,19 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "Learning ReactJS with project based learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "javascript.frontend",
+    "development"
+  ],
+  "author": "yash kava",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
